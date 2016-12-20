@@ -1,0 +1,9 @@
+{
+    "Site":{
+        "Title":"Angular Front End Software Development",
+        "Pages":[{"Home":{"Banner":"Specialist Angular Development Services",
+                            "MinorBanner":"ngSomeCoolName"}
+                }]
+        
+    }
+}

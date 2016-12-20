@@ -1,0 +1,46 @@
+{
+    "Structures":[
+        { "Structure" : "SphereGeometry" , "xPos" : "-30", "yPos" : "1", "isSpinner" : "true", "spinSpeed": "1", "size": "large",
+        "params" : {
+			"radius" : "5",
+			"widthSegments" : "19",
+			"heightSegments" : "20",
+			"phiStart" : "1",
+			"phiLength" : "6.3",
+			"thetaStart" : "0",
+			"thetaLength" : "3.3"
+		    } 
+        },
+		{ "Structure" : "BoxGeometry" , "xPos" : "-10", "yPos" : "1", "isSpinner" : "true", "spinSpeed": "0.05", "size": "large",
+        "params" : {
+			"width" : "10",
+			"height" : "10",
+			"depth" : "10",
+			"widthSegments" : "1",
+			"heightSegments" : "1",
+			"depthSegments" : "1"
+		    } 
+        },
+		  { "Structure" : "SphereGeometry" , "xPos" : "10", "yPos" : "1", "isSpinner" : "true", "spinSpeed": "0.05", "size": "large",
+        "params" : {
+			"radius" : "5",
+			"widthSegments" : "19",
+			"heightSegments" : "20",
+			"phiStart" : "1",
+			"phiLength" : "6.3",
+			"thetaStart" : "0",
+			"thetaLength" : "3.3"
+		    } 
+        },
+		{ "Structure" : "BoxGeometry" , "xPos" : "30", "yPos" : "1", "isSpinner" : "true", "spinSpeed": "0.05", "size": "large",
+        "params" : {
+			"width" : "10",
+			"height" : "10",
+			"depth" : "10",
+			"widthSegments" : "1",
+			"heightSegments" : "1",
+			"depthSegments" : "1"
+		    } 
+        }
+    ]
+}
